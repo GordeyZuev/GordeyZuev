@@ -1,11 +1,10 @@
-<!--
-<h1 align="center">Hi there, I'm <a href="https://t.me/WhiteShape" target="_blank">Gordey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
--->
 # Hi There, I'm [Gordey](https://t.me/WhiteShape) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-- 🎓 Higher School of Economics - Faculty of Computer Science 26'
+A little about me:
+- 💼 Teaching assistant at **Yandex** and **Higher School of Economic** (Sep 2023 - Present)
+- 🎓 **Higher School of Economics** - Faculty of Computer Science 26'
+- 🎓 **Lyceum at the Higher School of Economics** - Informatics and Math 22'
+
 
 <!--
 **GordeyZuev/GordeyZuev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
