@@ -1,6 +1,13 @@
-# Hi There, I'm [Gordey](https://t.me/WhiteShape) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Hi There, I'm [Gordey](https://t.me/WhiteShape) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
-A little about me:
-- 💼 Backend Developer at **Yandex** (July 2024 - Present)
-- 💼 Organizational Curator at **Higher School of Economics** (Dec 2023 - Present)
-- 🎓 **Higher School of Economics** - Faculty of Computer Science 26'
+**Backend Developer in Autonomous Driving** | **Computer Science Student & Mentor**
+
+### 👨‍💻 Currently
+- 💼 **Backend Developer at Yandex Self-Driving Cars** (July 2025 - Present)  
+  *Building infrastructure for autonomous vehicles*
+- 🎓 **BSc Computer Science at Higher School of Economics** ('26)
+- 🏫 **Organizational Curator at HSE Faculty of Computer Science** (Dec 2023 - Present)
+
+### 🛠️ Tech Stack
+
+*Backend:* `Python` | `PostgreSQL` | `Redis` | `Kafka` | `Docker` | `gRPC`
